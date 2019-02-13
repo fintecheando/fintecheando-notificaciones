@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/victor/dev/Notificaciones/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/victor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/abc6095168fdc40c397e9ca1aea16cf4/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/victor/git/fintecheando-notificaciones/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/victor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/abc6095168fdc40c397e9ca1aea16cf4/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
